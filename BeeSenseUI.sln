@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeeSenseUI", "BeeSenseUI\BeeSenseUI.csproj", "{64486AEC-FB3B-4D52-883A-9594CE4A2297}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BeeSenseUI.Installer", "BeeSenseUI.Installer\BeeSenseUI.Installer.vdproj", "{72F06E57-1F42-41C6-A31C-CFC939DBCFA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|x86 = Debug|x86
+		DVD-5|x86 = DVD-5|x86
+		Release|x86 = Release|x86
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64486AEC-FB3B-4D52-883A-9594CE4A2297}.CD_ROM|x86.ActiveCfg = Release|x86
+		{64486AEC-FB3B-4D52-883A-9594CE4A2297}.CD_ROM|x86.Build.0 = Release|x86
+		{64486AEC-FB3B-4D52-883A-9594CE4A2297}.Debug|x86.ActiveCfg = Debug|x86
+		{64486AEC-FB3B-4D52-883A-9594CE4A2297}.Debug|x86.Build.0 = Debug|x86
+		{64486AEC-FB3B-4D52-883A-9594CE4A2297}.DVD-5|x86.ActiveCfg = Debug|x86
+		{64486AEC-FB3B-4D52-883A-9594CE4A2297}.DVD-5|x86.Build.0 = Debug|x86
+		{64486AEC-FB3B-4D52-883A-9594CE4A2297}.Release|x86.ActiveCfg = Release|x86
+		{64486AEC-FB3B-4D52-883A-9594CE4A2297}.Release|x86.Build.0 = Release|x86
+		{64486AEC-FB3B-4D52-883A-9594CE4A2297}.SingleImage|x86.ActiveCfg = Release|x86
+		{64486AEC-FB3B-4D52-883A-9594CE4A2297}.SingleImage|x86.Build.0 = Release|x86
+		{72F06E57-1F42-41C6-A31C-CFC939DBCFA5}.CD_ROM|x86.ActiveCfg = Release
+		{72F06E57-1F42-41C6-A31C-CFC939DBCFA5}.Debug|x86.ActiveCfg = Debug
+		{72F06E57-1F42-41C6-A31C-CFC939DBCFA5}.DVD-5|x86.ActiveCfg = Debug
+		{72F06E57-1F42-41C6-A31C-CFC939DBCFA5}.Release|x86.ActiveCfg = Release
+		{72F06E57-1F42-41C6-A31C-CFC939DBCFA5}.SingleImage|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
